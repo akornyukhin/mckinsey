@@ -53,7 +53,7 @@ def beautiful(n):
         if flag:
             result.append(i)
 
-    return result
+    return len(result)
 ``` 
 
 ## Working Schedules
